@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=75.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "order-processor"
+version = "0.1.0"
+description = "订单数据处理工具 — Lab 0.2 工程化练习"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas>=2.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "pytest-cov",
+    "mypy>=1.0",
+    "ruff>=0.5",
+]
+
+[project.scripts]
+order-process = "order_processor.cli:main"
+
+[tool.mypy]
+strict = true
+python_version = "3.10"
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-v --tb=short"

@@ -1,0 +1,33 @@
+{
+  "total_orders": 9,
+  "total_revenue": 3751.9,
+  "customer_count": 5,
+  "avg_revenue_per_order": 416.88,
+  "top_customers": [
+    {
+      "name": "李四",
+      "order_count": 2,
+      "total_spent": 2228.0
+    },
+    {
+      "name": "孙七",
+      "order_count": 1,
+      "total_spent": 459.0
+    },
+    {
+      "name": "王五",
+      "order_count": 2,
+      "total_spent": 458.0
+    },
+    {
+      "name": "张三",
+      "order_count": 2,
+      "total_spent": 448.0
+    },
+    {
+      "name": "赵六",
+      "order_count": 2,
+      "total_spent": 158.9
+    }
+  ]
+}
