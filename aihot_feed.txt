@@ -1,0 +1,252 @@
+=== AIHOT ?? (40 ?) ===
+??: https://aihot.virxact.com/
+
+1. 小鹏 CEO 何小鹏：2026 年底自动驾驶可以合法进入全球
+   ??: 小鹏汽车 CEO 何小鹏微博透露，VLA 2.0 走向全球进入确定模式。联合国 WP29 缔约国会议批准了 DCAS UNR 171 series 02（对应城区 NGP 法规）与 UNR ADS（对应 L3-L5 自动驾驶法规）。DCAS 将在六个月后成为欧盟强制法规，即 2026 年底自动驾驶可合法进入全球；UNR ADS 为框架性法规，加速 L4 级 Robotaxi 落地。何小鹏称 202
+   ????: 联合国层面批准自动驾驶核心法规，L3以上合法上路进入倒计时，这对小鹏等中国车企出海是实质利好，自动驾驶全球化终于有了法律基础。
+   ??: https://www.ithome.com/0/968/894.htm
+   ??: 70 | ??: 70 | ??: IT之家（RSS） | ??: 具身智能, 行业动态 | ??: 2026-06-26
+
+2. 近400家美国报纸起诉微软和OpenAI：未经授权抓取新闻内容训练AI
+   ??: 代表近400家纸媒的出版商联盟向美国纽约南区联邦地区法院起诉微软和OpenAI，指控其未经授权抓取新闻内容用于训练Copilot、ChatGPT等AI模型，侵犯版权并触犯《数字千年版权法》。起诉书称被告“系统性且秘密地”爬取网站，复制文章并删除版权管理信息。原告表示AI产品基于其内容创造数十亿美元价值，但出版商分文未得，称此举或成地方新闻业“丧钟”。OpenAI回应训练数据基于公开可获取内容且符合
+   ????: 近400家报纸集体起诉是迄今为止最大的AI版权诉讼，结果可能决定新闻数据在训练中的合法性边界，媒体和AI公司都该盯着。
+   ??: https://www.ithome.com/0/968/872.htm
+   ??: 74 | ??: 74 | ??: IT之家（RSS） | ??: Microsoft, OpenAI, 行业动态 | ??: 2026-06-26
+
+3. 美团 LongCat 开源 VitaBench 2.0：长期动态智能体基准新标杆
+   ??: 美团 LongCat 团队推出 VitaBench 2.0，首个真实生活场景下针对长期动态用户建模的智能体评测基准。包含56名拟真用户、819个复杂任务、超2000个动态偏好及66个可执行工具，每位用户平均2093个交互事件，时间跨度平均1580天。同时支持长文本上下文学习和智能体记忆策略评测。测试显示，最强模型 Claude-Opus-4.6 在“开卷”模式下平均分刚过0.5；开启思考模式并不总
+   ????: 美团LongCat开源的VitaBench 2.0是首个评测AI长期理解用户偏好的基准，实验发现最强模型得分也刚过0.5，做Agent和推荐系统的值得跑一遍。
+   ??: https://mp.weixin.qq.com/s/HoiUxYnyJuh2_xdxmg8s8Q
+   ??: 69 | ??: 69 | ??: 公众号：龙猫LongCat（美团） | ??: Agent, 开源生态, 评测/基准 | ??: 2026-06-25
+
+4. Claude Code 6个实用Hook玩法
+   ??: Claude Code 内置近30个Hook事件（年初仅13个），本质是写死的规则脚本，运行时不消耗token。6个实用玩法：权限弹窗提醒、开机日程播报（问候+天气+飞书日程）、上下文预压缩时自动生成摘要卡片、结合Skill自动整理下载文件夹、启动后每小时久坐提醒、通过Bark实现手机/手表任务完成/失败推送。让AI从被动聊天框变为事件驱动的自动化系统。
+   ????: 卡兹克把Claude Code的Hook拆成6个具体玩法，从权限弹窗到自动整理文件，每个都能直接抄作业，是让Agent从对话工具变成工作系统的最实用入门。
+   ??: https://mp.weixin.qq.com/s/LVj2foSXi_hBRKxjuYaUyw
+   ??: 71 | ??: 71 | ??: 公众号：数字生命卡兹克 | ??: Agent, Anthropic, MCP/工具调用, 教程/实践 | ??: 2026-06-26
+
+5. 小互开源个人IP配图技能“小互IP Studio”，含31个原创角色
+   ??: 博主小互开源个人IP配图技能“小互IP Studio”，包含31个原创角色（15个手绘线稿角色+16个谐音梗meme形象）及一套配图方法论。该Agent可自动读取文章、规划配图类型（情绪图/示意图/四格漫画）、生成并自查返工。默认画风为手绘线稿淡彩，另备5种皮肤（3D盲盒、黑白线稿等）可切换。安装仅需Python3，支持Claude Code、Codex等工具，需自备OpenAI兼容的图像API 
+   ????: 小互开源了一整套AI配图skill和31个原创角色，把“读文-定图-生图-自查”的流程装进一个命令，自媒体人装上就能用，省去调提示词的痛苦。
+   ??: https://x.com/xiaohu/status/2070317717811540149
+   ??: 81 | ??: 81 | ??: X：小互 (@xiaohu) | ??: Agent, GitHub, 图像生成, 开源/仓库 | ??: 2026-06-26
+
+6. @exponentialview 发布《State of the AI Economy》报告：AI经济年化收入超1750亿美元
+   ??: 报告基于去重后的消费端AI支出统计，过去12个月实际AI营收达1100亿美元，年化运行率超1750亿美元，增长速度约为移动/互联网普及浪潮的3倍。营收形成速度急剧加快：2023年新增10亿美元收入需180天，现缩短至不足2天。企业AI已脱离试点阶段，但全面推广仍处早期。31%的标普500公司在财报电话会提及AI，仅20%量化影响。Token降价每10%刺激12-18%用量增长，需求价格弹性强。超大
+   ????: 首次厘清全球AI真实营收规模，排重后数据说明AI经济增长惊人，这些数字将成为行业基准，弹性需求数据也打破了AI越便宜越亏的恐惧。
+   ??: https://x.com/rohanpaul_ai/status/2070288396644491317
+   ??: 82 | ??: 82 | ??: X：Rohan Paul (@rohanpaul_ai) | ??: 现象/趋势 | ??: 2026-06-25
+
+7. Claude Code v2.1.193 发布
+   ??: Claude Code v2.1.193 新增 `autoMode.classifyAllShell` 设置，将全部 Bash/PowerShell 命令经自动模式分类器处理。自动模式拒绝原因现加入转录、拒绝提示及 `/permissions` 页面。新增 `claude_code.assistant_response` OpenTelemetry 日志事件（默认不记录，需设置 `OTEL_LOG
+   ????: 一次扎实的工具更新，自动模式覆盖所有 shell 命令和 MCP 认证重连是最实用的改进，后台任务内存回收也解决了长期痛点，Claude Code 用户值得更新。
+   ??: https://github.com/anthropics/claude-code/releases/tag/v2.1.193
+   ??: 61 | ??: 61 | ??: Claude Code：GitHub Releases（RSS） | ??: Agent, 产品更新, 编码 | ??: 2026-06-25
+
+8. 美国政府要求OpenAI暂缓GPT-5.6广泛发布
+   ??: The Information 报道，美国政府因安全顾虑要求 OpenAI 暂缓 GPT-5.6 的广泛发布，改为推出受控预览版。OpenAI 计划先向小部分合作伙伴提供早期访问，并由政府逐客户审批准入。这一非常规做法主要担忧模型在自动化高技能网络工作上的能力：既能帮防御者更快发现漏洞，也可能被攻击者用于加速测试漏洞利用。本周四，CEO Sam Altman 已向员工确认该审批流程。
+   ????: 美国政府首次以逐客户审批的方式干预模型发布，这很可能成为未来前沿模型发布的先例，AI 安全治理从行业自律转向行政介入，做应用和做安全的人都要重新评估风险。
+   ??: https://x.com/rohanpaul_ai/status/2070252433109049466
+   ??: 76 | ??: 76 | ??: X：Rohan Paul (@rohanpaul_ai) | ??: OpenAI, 安全/对齐, 行业动态 | ??: 2026-06-25
+
+9. Codex 在 ChatGPT 移动 App 正式可用
+   ??: OpenAI 宣布 Codex 在 ChatGPT 移动应用中正式开放（GA），并新增一对一设备配对实现更安全的手机与电脑连接。移动端新增通知、目标、侧边聊天、文件预览及内联审阅评论功能。此前预览版已明确，用户可通过 ChatGPT 移动 App 启动新工作、审查输出、引导执行和批准下一步，而 Codex 实际继续在笔记本、Mac mini 或开发机上后台运行。
+   ????: Codex 移动端全面开放，终于可以在手机端管理编码任务了，对习惯远程操控的开发者是个实用里程碑。
+   ??: https://x.com/OpenAIDevs/status/2070254532911882707
+   ??: 66 | ??: 66 | ??: X：OpenAI Developers (@OpenAIDevs) | ??: OpenAI, 产品更新, 编码 | ??: 2026-06-25
+
+10. Midjourney 预览 V8.2 并加速草稿模式
+   ??: Midjourney 带来两项更新。一是加入 `--preview` 参数可提前体验 V8.2 的美学与个性化效果；二是此前在 V8.1 推出的大批量草稿模式（生成 24 张低分辨率图，价格仅为标准 4 张的一半，点击 "Vary" 可升级为全分辨率）现在支持搭配 `--sref random` 使用，探索风格空间的速度比之前快 24 倍。
+   ????: 新草稿模式让批量探索风格变得便宜又快速，配上 sref random 更是把试错效率拉满，设计师能直接用到工作流里。V8.2 预览只是小彩蛋，但暗示美学调校还在进化。
+   ??: https://x.com/midjourney/status/2070223272072065228
+   ??: 67 | ??: 67 | ??: X：Midjourney (@midjourney) | ??: 产品更新, 图像生成 | ??: 2026-06-25
+
+11. IBM 首度推出亚纳米级芯片技术
+   ??: IBM 于 2026 年 6 月 25 日发布全球首款亚纳米级芯片技术，采用 0.7 nm（7 埃米）节点与全新三维纳米堆叠（nanostack）架构。指甲盖大小的芯片集成近 1000 亿个晶体管，密度约为 IBM 2021 年 2 nm 芯片的两倍。相比 2 nm 芯片，性能最高提升 50%，能效最高提升 70%。纳米堆叠架构还实现 SRAM 面积缩减 40%，有助于支撑先进 AI 工作负载的高
+   ????: IBM 把芯片制程推进到亚纳米，0.7nm 意味着 AI 芯片能塞进两倍晶体管，这对生成式 AI 的算力瓶颈是个好消息。虽然量产还要五年，但技术路线图清晰，值得关注。
+   ??: https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology
+   ??: 78 | ??: 78 | ??: Hacker News 热门（buzzing.cc 中文翻译） | ??: 推理, 数据/训练, 论文/研究 | ??: 2026-06-25
+
+12. Midjourney V8.1 草稿模式新增随机风格功能
+   ??: Midjourney V8.1 的草稿模式（draft mode）添加了随机风格功能。用户在提示词中加入 `--sref random` 即可一键生成 24 张不同风格的图片。开启草稿模式可通过点击提示栏的 ⚡ 图标或添加 `--draft` 参数。
+   ????: Midjourney 在 V8.1 草稿模式加了随机风格，一键出 24 种草图，对找灵感的创作者算顺手小升级，但改变不了核心创作流程，只适合深度用户尝鲜。
+   ??: https://updates.midjourney.com/random-styles-in-draft-mode
+   ??: 62 | ??: 62 | ??: Midjourney：Updates（RSS） | ??: 产品更新, 图像生成 | ??: 2026-06-25
+
+13. Runway发布Agent 2.0
+   ??: Runway发布Agent 2.0，帮助营销人员创建、测试和优化广告、视频及营销活动。品牌营销人员可在对话中开发活动概念、生成变体并自动本地化；绩效营销人员可上传创意并导入Meta、YouTube、TikTok或Google广告数据，由Agent分析后生成下一轮待测广告。社交媒体营销人员可一次性生成一周内容，自动裁切为9:16、16:9、1:1等格式；产品营销人员可借助Agent确定定位角度并构建
+   ????: Runway的Agent 2.0不只是生成视频，它试图打通从广告数据分析到全平台素材生成的闭环，做增长和社交内容的团队可以观望一下。
+   ??: https://runwayml.com/news/introducing-agent-2
+   ??: 65 | ??: 65 | ??: Runway：News（网页） | ??: Agent, 产品更新, 视频 | ??: 2026-06-25
+
+14. 赫库兰尼姆古卷首次被完整虚拟解读
+   ??: 研究人员利用高分辨率X射线显微断层扫描和机器学习，在未物理展开的情况下完整虚拟展开并读取了赫库兰尼姆古卷PHerc.1667（Scroll4）。这是首卷被从头到尾连续读取的纸莎草卷，内容为斯多葛哲学论著，提及克里西普斯的侄子Aristocreon。第二卷PHerc.Paris4通过更高分辨率成像使墨水在三维数据中直接可见，独立确认了2023年大奖赛的解读。第三卷PHerc.139确定标题和作者为菲
+   ????: 两千年来首次完整读取密封的古卷，用 X 射线和机器学习做到了，还把数据和代码全开放了，我觉得这是 AI 应用在人文领域最优雅的示范之一。
+   ??: https://scrollprize.org/firstscroll
+   ??: 79 | ??: 79 | ??: Hacker News 热门（buzzing.cc 中文翻译） | ??: GitHub, 开源生态, 论文/研究 | ??: 2026-06-25
+
+15. General Intuition 完成 3.2 亿美元融资，用游戏数据训练通用 AI 智能体
+   ??: General Intuition 以 23 亿美元估值完成 3.2 亿美元融资，累计披露融资 4.54 亿美元。公司从旗下游戏剪辑平台 Medal 获取数亿小时含精确按键动作标签的游戏操作数据，训练单一模型同时驾驭 Fortnite 等虚拟环境和四足机器人。演示中，AI 智能体在游戏中连续运行 100 小时，机器人仅靠 8 分钟真实街道数据微调即可自主探索办公室。本轮由 Khosla Ventu
+   ????: 用游戏按键数据训练世界模型，并在真机上八分钟完成适配，这个思路让具身智能看到了一条可规模化的路径。投资人押注的其实是 Medial 独有的动作标注数据飞轮。
+   ??: https://techcrunch.com/2026/06/25/from-fortnite-to-robots-general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world
+   ??: 71 | ??: 71 | ??: TechCrunch：AI（RSS） | ??: Agent, 具身智能, 数据/训练, 行业动态 | ??: 2026-06-25
+
+16. Ornith-1.0 开源模型家族发布，专注 Agentic Coding 全参数规模
+   ??: Ornith-1.0 开源模型家族发布，专注智能体编程（Agentic Coding），覆盖 9B Dense、31B Dense、35B MoE 及 397B MoE 全参数规模。在 Agent Coding 基准上达开源顶尖：SWE-Bench Verified 82.4、SWE-Bench Pro 62.2、Terminal-Bench 2.1 77.5、NL2Repo 48.2、SWE A
+   ????: Ornith-1.0 不是又刷 benchmark，而是第一次把‘任务脚手架’的生成也纳入 RL 优化，这个思路可能改变 agent coding 的训练范式。MIT 开源加 GGUF，本地党可以立刻跑起来。
+   ??: https://x.com/berryxia/status/2070167806700908957
+   ??: 76 | ??: 76 | ??: X：Berry Xia (@berryxia) | ??: Agent, 开源生态, 模型发布, 编码 | ??: 2026-06-25
+
+17. OLMo Hybrid vs Transformer：混合模型在实义词上优势明显，但重复短语上几无优势
+   ??: 通过对比7B参数的OLMo 3（Transformer）与OLMo Hybrid（混合架构），实验发现混合模型在大多数token上预测损失更低：对名词、动词、形容词等实义词优势明显（loss gap约0.04），功能词上gap约0.02，且在需上下文推理的代词指代上更好。但在重复出现的n-gram和闭合括号（如`}`）上，混合模型的优势几乎消失，Transformer凭借注意力机制更擅长从输入中直
+   ????: OLMo 团队的 token 级别分析让人看清混合模型到底强在哪里，优势在名词动词等意义词，但在重复 token 上接近消失，这份洞察对做模型架构的人很有启发性。
+   ??: https://huggingface.co/blog/allenai/hybrid-token-prediction
+   ??: 65 | ??: 65 | ??: Hugging Face：Blog（RSS） | ??: Hugging Face, 开源生态, 推理, 论文/研究 | ??: 2026-06-25
+
+18. Google Finance 全新 Android 应用与投资组合功能上线
+   ??: 本周，Google Finance 推出正式版 Android 应用，同步上线全球投资组合跟踪功能。用户可通过截图、CSV/PDF 上传或文字描述创建组合，并利用 AI 研究工具提问资产配置、固定收益影响等问题。新增市场情报简报功能：用户设定任务（如每日盘前简报），后台自动生成并推送至 Google 应用（Android/iOS）及网页端。Android 应用包含 watchlist、实时数据、金
+   ????: 虽然对 AI 行业算不上大新闻，但对散户投资者是个实用升级，能自动盯盘、生成个性化简报，还能用对话式研究挖掘持仓问题，比大多数 AI 功能都更落地。
+   ??: https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026
+   ??: 57 | ??: 57 | ??: Google Blog：AI（RSS） | ??: Google, 产品更新 | ??: 2026-06-25
+
+19. 多数主流AI聊天机器人政治立场偏左，“反觉醒”模型也不例外
+   ??: 华盛顿邮报调查显示，多数主流AI聊天机器人在政治问题上明显偏左。OpenAI GPT-5.5在80%回答中仅呈现左派论据；DeepSeek V4 Pro为70%；Anthropic Claude Opus 4.8有43%纯左、57%给出双方观点。xAI的Grok 4.3左倾回答仍多于右倾。右翼平台Gab的Arya左倾回答是右倾的12倍。Google Gemini 3.1 Pro是例外，93%回答同
+   ????: 华盛顿邮报对六款主流模型的实测是个重要信号，所有模型默认左倾，连反觉醒的Grok也不例外，只有Gemini坚持给出两边观点。做对齐和治理的人该好好看看这些数据。
+   ??: https://the-decoder.com/most-major-ai-chatbots-still-lean-left-on-political-questions-even-anti-woke-models-are-no-exception
+   ??: 73 | ??: 73 | ??: The Decoder：AI News（RSS） | ??: Google, OpenAI, 安全/对齐, 评测/基准 | ??: 2026-06-25
+
+20. OpenRouter MCP 服务器发布
+   ??: OpenRouter 推出 MCP 服务器，为编程智能体提供实时模型数据、基准排名、定价和文档查询。开发者通过一键安装（支持 Claude Code、Codex CLI、Cursor 等客户端），即可在编辑器内完成模型筛选、价格对比和测试推理，无需切换标签页。服务器整合 Artificial Analysis、Design Arena 及 OpenRouter 自身排名数据，例如推荐 GLM-5.
+   ????: OpenRouter 这个 MCP 服务器让编码 agent 直接从编辑器里选模型、查价格、跑测试，省掉了切浏览器查资料的15分钟，做 AI 开发的值得立刻装上。它把模型选择变成了 agent 自己能完成的工作流，而不只是人工猜测。
+   ??: https://openrouter.ai/blog/announcements/openrouter-mcp-server
+   ??: 71 | ??: 71 | ??: OpenRouter：Announcements（RSS） | ??: MCP/工具调用, 产品更新, 编码 | ??: 2026-06-25
+
+21. Meta员工警告AI内容审核部署过快
+   ??: Meta在2025年已用大语言模型替换约一半人工审核请求，计划年底前将部分内容类型的AI审核比例提升至90%以上，每年节省数十亿美元。Meta否认成本动机，称自3月测试显示其模型错误率比人类低13%，且多捕捉10%违规。但员工指出模型仍会移除或限流无害内容，缺乏足够监督，快速部署已导致外包裁员。此外，Meta已从使用Google Gemini转向自家新基础模型Muse Spark，该模型基于人工审
+   ????: Meta用LLM替换人类审核已过半，年底目标90%以上，员工警告误删和裁员同步发生。AI审核的规模跃迁背后，质量控制争议可能成为社会信任的节点。
+   ??: https://the-decoder.com/meta-employees-warn-ai-moderation-rollout-is-too-fast
+   ??: 73 | ??: 73 | ??: The Decoder：AI News（RSS） | ??: Meta, 安全/对齐, 行业动态 | ??: 2026-06-25
+
+22. OpenAI内部报告：智能体Codex如何改变工作
+   ??: OpenAI 在2025年8月至2026年6月间观察到，智能体产品 Codex 取代 ChatGPT 成为主要工作工具，各部门输出 token 中 Codex 占比从不足10%升至99.8%。80.6%个体用户曾发起预计等效人类工作时间超30分钟的请求，70.2%超1小时，25.6%超8小时；99百分位用户每日生成超60小时 agent turns。非开发者用户增长迅猛：个体用户增长137倍，组织
+   ????: OpenAI 第一次用内部数据量化智能体如何改变工作，非开发者增速 137 倍比工程师还猛，Codex 已经吃掉内部 99.8% 的输出 token——这不是产品更新，但比大多数发布会都更值得做策略的人看一眼。
+   ??: https://openai.com/index/how-agents-are-transforming-work
+   ??: 65 | ??: 65 | ??: OpenAI：官网动态（RSS · 排除企业/客户案例） | ??: Agent, OpenAI, 现象/趋势, 论文/研究 | ??: 2026-06-25
+
+23. Anthropic称阿里巴巴非法获取了Claude AI模型的功能
+   ??: Anthropic指控阿里巴巴未经授权提取了其Claude AI模型的能力。该指控基于Anthropic的调查，认为阿里巴巴通过逆向工程或其他手段复制了Claude的核心技术。目前阿里巴巴尚未公开回应。
+   ????: Anthropic正式指控阿里巴巴非法提取Claude能力，这不是普通知识产权纠纷，而是头部AI公司对模型能力窃取的首次公开控诉，可能重塑API和开源生态的游戏规则。
+   ??: https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24
+   ??: 75 | ??: 75 | ??: Hacker News 热门（buzzing.cc 中文翻译） | ??: Anthropic, 数据/训练, 行业动态 | ??: 2026-06-25
+
+24. Causal-rCM：自回归视频扩散蒸馏的统一教师强制与自强制开源方案
+   ??: Causal-rCM将扩散蒸馏框架rCM扩展至自回归视频扩散，提出教师强制(TF)与自强制(SF)互补训练范式，并发布统一开源算法与基础设施。通过自定义掩码FlashAttention-2 JVP内核，首次实现基于教师强制的连续时间一致性模型(sCM/MeanFlow)用于自回归视频扩散，收敛速度比离散时间版本快10倍。蒸馏后的2步因果Wan2.1-1.3B模型在仅1或2步采样下取得VBench-
+   ????: 把自回归视频扩散蒸馏到1-2步采样，VBench冲到84.63，这个配方让实时视频生成和交互世界模型从论文走进了工程落地，做视频产品的该看。
+   ??: https://arxiv.org/abs/2606.25473
+   ??: 70 | ??: 70 | ??: HuggingFace Daily Papers（社区热门论文） | ??: arXiv, 推理, 视频, 论文/研究 | ??: 2026-06-24
+
+25. 盈透证券（Interactive Brokers）与 Grok 集成：组合分析、情景建模与实时交易指令生成
+   ??: 盈透证券（Interactive Brokers）近日与 Grok 集成，用户可在几分钟内免费关联现有账户，无需注册新账户。通过自然语言与 Grok 对话，可完成组合收益分析（如股息与利息预测）、行业/地区/经济事件的风险敞口情景建模、市场趋势研究，并直接生成对冲订单等实时交易指令，实现从数据洞察到执行决策的一体化。
+   ????: xAI 把 Grok 接进了盈透证券的交易终端，是个实用的生态扩展，对 IB 用户来说从分析到下单可以一条龙处理，但本质上还是个功能集成，算不上行业大事件。
+   ??: https://x.ai/news/grok-interactive-brokers
+   ??: 55 | ??: 55 | ??: xAI：News（网页） | ??: xAI, 产品更新 | ??: 2026-06-25
+
+26. AI被认为会取代工程岗位，但新数据显示工程是2025年最具韧性的岗位
+   ??: 风投机构SignalFire追踪8000万家公司数百万员工数据发现，工程是2025年最具韧性的岗位。大型科技公司总招聘较2019年下降25%，工程岗仅降11%；工程岗占Alphabet、Meta等12家“Tech Majors”新招员工的55%（2019年为46%）。早期初创公司2025年工程师招聘比2019年增长7%。Anthropic CEO警告AI可能消灭一半入门级白领，但该公司经济主管称尚
+   ????: SignalFire 的报告用招聘数据讲了一个反直觉的故事：工程师不仅没被 AI 取代，反而成为科技公司招聘的主力，这比“AI 夺走一切”的恐慌论有说服力得多。Jevons 悖论在工程领域正在发生。
+   ??: https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient
+   ??: 70 | ??: 70 | ??: TechCrunch：AI（RSS） | ??: Anthropic, 现象/趋势, 编码 | ??: 2026-06-24
+
+27. Notion 使用 Cursor SDK 嵌入编码智能体
+   ??: Notion 通过 Cursor SDK 在数周内将编码智能体嵌入产品。用户可在文档中@Cursor、在讨论串中提及或向数据库指派任务，Cursor 即可端到端完成规划、构建、测试、验证并自动创建 PR。集成基于一套 Provider 无关的智能体框架，Notion 的讨论串对应一个 Cursor 智能体，每条消息对应一次智能体运行；结果通过 SSE 流式传输，支持断连恢复。Cursor SDK 
+   ????: 我对“嵌入代理”的概念有点怀疑，但Notion用两周集成Cursor SDK，说明其抽象做得不错。文章展示了怎么把一个全栈编码代理塞进产品里，做工具的可以看看SDK设计。
+   ??: https://cursor.com/blog/notion
+   ??: 65 | ??: 65 | ??: Cursor Blog | ??: Agent, 产品更新, 编码 | ??: 2026-06-24
+
+28. OpenRouter 零数据留存（ZDR）实践：97 款新模型，流量占比近半
+   ??: OpenRouter 的零数据留存（ZDR）保证用户提示词和模型响应不被存储，元数据一般安全。自 1 月以来新增 97 款支持 ZDR 的模型，月度 token 量增长 4.3 倍，约占全部路由流量一半。ZDR 在三个层面执行：账户级（整个供应商开启）、护栏级（按 API Key 或组织成员限定）、单次请求级（传参数仅路由至 ZDR 端点）。企业用户可灵活选择控制粒度，避免锁定单一供应商。
+   ????: ZDR 远不止“不存数据”这么简单，提示、响应、缓存的区分很多人没搞清楚。OpenRouter 的三层执行算是把自由度给足了，做合规服务的人可以仔细看看。
+   ??: https://openrouter.ai/blog/insights/when-zero-means-zero
+   ??: 68 | ??: 68 | ??: OpenRouter：Announcements（RSS） | ??: 教程/实践, 数据/训练 | ??: 2026-06-24
+
+29. Perplexity推出Computer for Counsel
+   ??: 推出 Computer for Counsel。
+
+Computer 现在连接了律师日常使用的研究数据库、文档工具和案件管理系统。可从中提取可引用来源：@midpageAI、@LegalZoom、@Docusign、@netdocuments 等。
+
+所有 Pro 和 Max 订阅用户均可使用。
+   ????: Perplexity 发布了面向法律行业的 Computer for Counsel，将研究数据库、文档工具和事务管理系统集成进 AI 搜索，律师可以一试。
+   ??: https://x.com/perplexity_ai/status/2069866668671766804
+   ??: 65 | ??: 65 | ??: X：Perplexity (@perplexity_ai) | ??: 产品更新, 搜索 | ??: 2026-06-24
+
+30. 在与Anthropic的纠纷中，NSA失去了对Mythos的访问权限
+   ??: 美国国家安全局（NSA）因与人工智能公司Anthropic的纠纷，失去了对Mythos系统的访问权限。
+   ????: NSA失去对Mythos的访问权，表面是商业纠纷，实则触及AI公司与情报机构合作的敏感边界，这件事很可能成为未来AI治理的一个关键参照点。
+   ??: https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html
+   ??: 71 | ??: 71 | ??: Hacker News 热门（buzzing.cc 中文翻译） | ??: Anthropic, 政策/监管, 行业动态 | ??: 2026-06-24
+
+31. GPT-5.5 Instant 新版本，对话更有趣
+   ??: 我们为你带来了新版 GPT-5.5 Instant，它现在聊起天来有趣多了。
+
+我们最常用的模型现在能更好地理解问题背后的意图，并相应地调整回应。
+
+它也能更可靠地处理复杂约束，让购物和本地推荐更加实用和连贯。
+
+今天向付费用户推送，明天向免费用户推送。
+   ????: GPT-5.5 Instant 这次更新看似温和，但“更懂意图”和“复杂约束处理”的改进，对产品人和普通用户来说，可能比跑分更有用。
+   ??: https://x.com/OpenAI/status/2069843083701915755
+   ??: 67 | ??: 67 | ??: X：OpenAI (@OpenAI) | ??: OpenAI, 推理, 模型发布 | ??: 2026-06-24
+
+32. Gemini 3.5 Flash 引入 computer use 功能
+   ??: Google DeepMind 宣布，computer use 现作为内置工具集成于 Gemini 3.5 Flash，开发者可构建跨浏览器、移动端和桌面的智能体，实现视觉感知、推理与操作。此前该功能仅以独立模型形式存在于 Gemini 2.5。3.5 Flash 已支持函数调用及 Search、Maps 等内置工具，新增的 computer use 可提升持续软件测试和跨专业应用知识工作等长周期
+   ????: 把 computer use 能力塞进轻量级的 Flash 模型，意味着在浏览器里跑视觉 agent 的成本会大幅降低，做企业自动化的团队可以立即试起来，安全措施也给了落地信心。
+   ??: https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash
+   ??: 70 | ??: 70 | ??: Google DeepMind：Blog（RSS） | ??: Agent, DeepMind, Google, 产品更新 | ??: 2026-06-24
+
+33. Figma在Config 2026押注人类判断，画布AI能力却来自第三方
+   ??: Figma在Config 2026将设计画布扩展至代码、动画、3D深度和着色器效果，并集成去年收购的Weave工作流系统。新功能包括Code Layers（代码与设计并存）、Motion动画、深度层、Shader及Generative Plugins。协作方面，团队可搜索复用AI提示词、保存工作流为技能、共享插件。Figma的AI功能依赖Anthropic、OpenAI和Google等外部模型，推
+   ????: 我认为Figma这波更新很务实，它没有硬扛AI生成界面的对手，而是把代码、动效、3D拉进画布，用人的判断驾驭AI。虽然利润被模型供应商挤压，但共享提示和工作流的设计让团队协作更高效，做设计和产品的值得细看。
+   ??: https://the-decoder.com/figma-bets-on-human-judgment-at-config-2026-while-the-ai-powering-its-canvas-belongs-to-someone-else
+   ??: 74 | ??: 74 | ??: The Decoder：AI News（RSS） | ??: Agent, Anthropic, 产品更新, 编码 | ??: 2026-06-24
+
+34. 思考即回忆：推理如何解锁LLM中的参数化知识
+   ??: Google Research研究发现，推理（chain-of-thought）能帮助大语言模型（LLM）回忆简单事实，即使这些事实无需复杂推导。在Gemini-2.5 Flash和Pro以及Qwen3-32B上，启用推理后模型能够回答原本无法直接回答的简单问题，pass@k显示正确事实存在于输出分布中。该现象由两个机制驱动：一是生成的推理token充当计算缓冲，允许模型进行隐藏计算以提取参数化知
+   ????: 发现一个反直觉现象，让模型推理能提升简单事实回忆，不是靠分步解题而是计算缓冲和事实预热，对理解模型知识召回机制很有启发，但中间步骤幻觉也带来风险。
+   ??: https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms
+   ??: 69 | ??: 69 | ??: Google Research：Blog（网页） | ??: Google, 推理, 论文/研究 | ??: 2026-06-23
+
+35. FFASR 排行榜发布：真实远场条件下 ASR 评测
+   ??: Treble Technologies 与 Hugging Face 联合推出 FFASR（Far-Field ASR）排行榜，这是首个开源社区驱动的真实远场声学条件 ASR 评测基准。传统近场评测无法反映混响、背景噪声和麦克风距离带来的性能下降。FFASR 使用混合波模拟引擎生成声学数据，涵盖 14 种房间（20–470 m³）和三个信噪比级别（远场高 SNR >14 dB、中 SNR 8–12
+   ????: 远场语音的‘实验室-生产’性能差终于有了量化指标，这个排行榜把 ASR 的真实世界鲁棒性公开化，做语音产品的团队该看看。
+   ??: https://huggingface.co/blog/ffasr-leaderboard
+   ??: 61 | ??: 61 | ??: Hugging Face：Blog（RSS） | ??: Hugging Face, 评测/基准, 语音 | ??: 2026-06-24
+
+36. NVIDIA NeMo AutoModel：一行代码加速Transformer MoE模型微调
+   ??: NVIDIA NeMo AutoModel 是基于 Transformers v5 的开源库，添加 Expert Parallelism、DeepEP 融合 all-to-all 调度和 TransformerEngine 内核。在 MoE 模型微调中，相比原生 v5，训练吞吐量提升 3.4–3.7 倍，GPU 内存减少 29–32%，仅需改动一行 import。在 16 节点 128 张 H10
+   ????: 英伟达的 NeMo AutoModel 把 MoE 模型微调速度提高了三倍多，内存省了近三分之一，代码只需改一行 import，做训练的可以立刻升级。
+   ??: https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel
+   ??: 66 | ??: 66 | ??: Hugging Face：Blog（RSS） | ??: 开源/仓库, 教程/实践, 数据/训练 | ??: 2026-06-24
+
+37. Mistral AI 为 Connectors 推出多项安全与可控新能力
+   ??: 2026年6月24日，Mistral AI 发布 Connectors 多项新能力：Enriched admin controls（GA）支持按工作空间设置连接器访问权限并单独开关工具；API keys with connector scopes（GA）防止自动化 AI 工作负载中身份冒充；Multi-account connectors（GA）允许单个连接器绑定多个账户；Connectors D
+   ????: Mistral 这次把连接器从演示级提升到生产级，关键不只是新功能，而是解决了企业代理在权限、身份和故障排查上的真实痛点，做平台工程的人会觉得踏实了不少。
+   ??: https://mistral.ai/news/more-control-over-connectors
+   ??: 62 | ??: 62 | ??: Mistral AI：News（网页） | ??: 产品更新 | ??: 2026-06-24
+
+38. 字节跳动技术副总裁洪定坤：AI Coding 的实践与探索
+   ??: 在火山引擎Force大会，字节跳动技术副总裁洪定坤分享AI Coding实践。过去一年，字节AI代码贡献率增长6倍，tokens消耗增长5倍，但过度关注单一指标可能失真——TRAE团队代码超90%由AI生成，人均需求吞吐率仅提升60%。900次实验显示，主流Coding模型组合代码正确率超80%，但可交付性仅40-60分；结合Harness基建后提升至80分。AI降低编程门槛但需优化指标、治理、协
+   ????: 洪定坤把字节用 AI Coding 一年踩的坑和实验数据摊开讲，尤其‘过度重视代码贡献率’的反思和 Harness 基建的实证，是所有推 AI 编程的团队必看的复盘。
+   ??: https://mp.weixin.qq.com/s/mdmaAyUIvxE8WT_GEbF2wQ
+   ??: 74 | ??: 74 | ??: 公众号：火山引擎 | ??: 大佬观点, 现象/趋势, 编码 | ??: 2026-06-24
+
+39. 里德·霍夫曼称SpaceX“不是一家人工智能公司”，xAI则是“彻底的灾难”
+   ??: LinkedIn联合创始人、Anthropic和OpenAI投资者Reid Hoffman在播客中公开批评SpaceX和xAI。他指出SpaceX“不是一家人工智能公司”，6月12日上市后收购AI编程工具Cursor属于“花钱买相关性”；xAI则是“彻底的灾难”，所有11位联合创始人已离职，Grok模型在基准测试中落后于Anthropic和OpenAI。他还批评美国政府6月11日以出口管制为由强制
+   ????: Reid Hoffman 对 xAI 和 SpaceX 的批评几乎不留情面，这种硅谷核心人物的公开呛声本身就值得一读，他对监管干预的担忧和对 Gen Z 的劝诫也很有现实感。
+   ??: https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake
+   ??: 78 | ??: 78 | ??: Hacker News 热门（buzzing.cc 中文翻译） | ??: 大佬观点, 安全/对齐, 现象/趋势 | ??: 2026-06-24
+
+40. OpenAI 与 Broadcom 联合发布 LLM 推理芯片 Jalapeño
+   ??: OpenAI 与 Broadcom 发布首款自研推理加速器 Jalapeño，专为当前及未来 LLM 从头设计。早期测试显示，其性能功耗比大幅优于现有 SOTA。工程样片已在实验室以目标频率和功耗运行 GPT‑5.3‑Codex‑Spark 等负载。芯片从设计到流片仅用 9 个月，并利用 OpenAI 模型加速部分流程。OpenAI 计划从 2026 年起与 Microsoft 等合作伙伴部署千兆
+   ????: OpenAI 首次亲自设计芯片，和 Broadcom 联手推出专为 LLM 推理优化的 Jalapeño，从设计到流片仅 9 个月。虽然还只是早期测试，但性能功耗比大幅领先，一旦大规模部署，推理成本可能跳水，用 ChatGPT 的每个人都能感知到更快更便宜。
+   ??: https://openai.com/index/openai-broadcom-jalapeno-inference-chip
+   ??: 61 | ??: 61 | ??: OpenAI：官网动态（RSS · 排除企业/客户案例） | ??: OpenAI, 产品更新, 推理, 部署/工程 | ??: 2026-06-24

@@ -1,0 +1,25 @@
+﻿[project]
+name = "robot-data-pipeline"
+version = "0.1.0"
+description = "机器人数据处理 Pipeline — 从传感器原始数据到模型就绪数据"
+requires-python = ">=3.10"
+dependencies = [
+    "datasets>=3.0",
+    "huggingface_hub",
+    "pyarrow",
+    "opencv-python",
+    "rich",
+]
+
+[project.optional-dependencies]
+full = ["prefect", "great-expectations"]
+
+[project.scripts]
+robot-pipeline = "robot_pipeline.cli:main"
+
+[build-system]
+requires = ["setuptools>=75"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
